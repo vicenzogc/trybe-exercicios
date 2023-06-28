@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+Resiliência
+Constância
+Back-end
+Front-end
+JavaScript
